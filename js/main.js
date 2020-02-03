@@ -61,7 +61,7 @@ function init() {
       rendered: 'svg',
       loop: true,
       autoplay: true,
-      path: 'Tea.json'
+      path: 'tea.json'
   })
     
 
